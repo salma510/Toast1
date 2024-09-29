@@ -1,4 +1,4 @@
-Application Android - Incrémentation d'un compteur
+Application Android - Incrémentation d'un compteur:
 Cette application Android simple permet d'afficher un Toast ainsi qu'un compteur qui s'incrémente à chaque clic sur un bouton. L'application utilise une interface utilisateur basique avec deux boutons et un texte.
 
 Fonctionnalités
